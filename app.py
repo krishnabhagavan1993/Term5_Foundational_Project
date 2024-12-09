@@ -3,7 +3,6 @@ from dateutil.relativedelta import relativedelta
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import MinMaxScaler, StandardScaler
 
 #User input form
 st.title('Energy Forecasting Demo')
